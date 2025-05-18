@@ -6,7 +6,7 @@ HTML
 CSS (handwritten)  
 JavaScript (no libraries)
 
-##⚠️ Notes  
+## ⚠️ Notes  
 Static only – no server, no database.  
 Forms don’t actually submit anywhere.  
 Images are just basic banners and layout assets.
