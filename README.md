@@ -1,2 +1,12 @@
-# thriftbooks-review-site
-A simple static book review website where users can add book information and submit reviews. Built with basic HTML, CSS, and JavaScript. Contains form validation logic on the client side only. This is a front-end-only mockup with placeholder form actions, no database or actual submission handling.
+# ThriftBooks Static Site  
+This is a basic front-end project for a book review website. No frameworks, no backend, just raw HTML, CSS, and vanilla JavaScript. Created for practice.
+
+## 🔧 Tech Used  
+HTML  
+CSS (handwritten)  
+JavaScript (no libraries)
+
+##⚠️ Notes  
+Static only – no server, no database.  
+Forms don’t actually submit anywhere.  
+Images are just basic banners and layout assets.
