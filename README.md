@@ -1,4 +1,4 @@
-# Books review Static Site  
+# Books Review Website
 This is a basic front-end project for a book review website. No frameworks, no backend, just raw HTML, CSS, and vanilla JavaScript. Created for practice.
 
 ## 🔗 Live Demo  
